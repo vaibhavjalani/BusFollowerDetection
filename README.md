@@ -1,8 +1,18 @@
+(This code was used in a Data Science hackathon organized by KDAG IIT Kharagpur)
+Team Members-
+Vaibhav Jalani
+Rushil Venkateswar
+Umika Agrawal
+Bharat Uday
+Priyanjit Podder
+
+
+
 Price Setter and Follower Detection
 Pricing, one of the most important aspects for business!
 
+
 Problem Statement
-(This code was used in a Data Science hackathon organised by KDAG IIT Kharagpur)
 
 
 redBus is an online platform where bus operators offer their services and sell seats. These bus operators vary from single service operators to ones which have scores of services.Pricing is a complex decision for Bus Operators, who continuously adjust the prices seeing the demand and supply signals. But not all operators have the same level of visibility on these signals or the capability to price effectively. Operators who have better ability/confidence may price independently while some others may choose to follow the prices of such price setters.
