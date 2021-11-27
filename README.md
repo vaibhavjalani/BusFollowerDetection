@@ -1,4 +1,4 @@
-KDAG Hackathon: Price setter and follower detection
+Bus Price setter and follower detection
 
 
 Idea                                                                                                                              The main idea behind our approach was to find the buses with the least price and recorded time difference for a given date of travel, then the bus which preceded the other bus in the recorded time is taken to be followed by the other. Thus we ended up taking 2 variables as our dimensions for clustering: the price and the time dimension.
